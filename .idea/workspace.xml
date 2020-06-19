@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fa9f684-d236-48bd-9059-ef8477f1b3b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/upload/admin/language/english/catalog/card.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/admin/model/catalog/card.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/admin/view/template/catalog/card_form.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/admin/view/template/catalog/card_list.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/catalog/controller/api/card.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/controller/catalog/card.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/admin/controller/catalog/card.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/controller/common/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/admin/controller/common/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/language/english/common/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/admin/language/english/common/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/admin/view/template/common/header.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/upload/admin/view/template/common/header.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/catalog/controller/api/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/catalog/controller/api/cart.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/catalog/controller/api/custom.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/catalog/controller/api/custom.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/catalog/controller/api/image.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/catalog/controller/api/image.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/catalog/language/english/api/custom.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/catalog/language/english/api/custom.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/catalog/language/english/api/image.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/catalog/language/english/api/card.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/catalog/model/account/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/catalog/model/account/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/common.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/common.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/upload/products.php" afterDir="false" />
-    </list>
+    <list default="true" id="0fa9f684-d236-48bd-9059-ef8477f1b3b1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
