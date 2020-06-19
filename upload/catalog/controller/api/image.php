@@ -1,5 +1,5 @@
 <?php
-// catalog/controller/api/image.php
+// catalog/controller/api/card.php
 class ControllerApiImage extends Controller {
     public function index() {
         $this->load->language('api/image');

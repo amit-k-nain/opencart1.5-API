@@ -321,7 +321,11 @@ class ControllerApiCart extends Controller {
                 $json['error'] = $this->language->get('error_permission');
             } else {
                 $data = [
-                    'FC1' => FC1,
+                    'FC1' => [
+                        'name' => FC1,
+                        'images' => 'image',
+                        'description' => 'description'
+                    ],
                     'FC2' => FC2,
                     'FC3' => FC3,
                     'FC4' => FC4,
@@ -355,7 +359,9 @@ class ControllerApiCart extends Controller {
                 $data = [
                     'PC1' => [
                         'name' => PC1,
-                        'image' => 'image'
+                        'images' => 'image',
+                        'description' => 'description',
+                        'link' => 'youtube video link'
                     ],
                     'PC2' => PC2,
                     'PC3' => PC3,
